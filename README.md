@@ -1,4 +1,4 @@
-# TB-LUNG-DECTOR
+# TB-LUNG-DETECTOR
 
 This is project is based on deep learning topic
 we previously uploaded pneumonia -lung disease project
@@ -34,4 +34,8 @@ NumPy / Pandas / Matplotlib
 
 🤝 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+🙋‍♀️ Contact
+Created by KISHORE
+📧 kishoreeddie8@gmail.com
 
