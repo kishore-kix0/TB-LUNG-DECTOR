@@ -1,6 +1,6 @@
 # TB-LUNG-DECTOR
 
-this is project is based on deep learning topic
+This is project is based on deep learning topic
 we previously uploaded pneumonia -lung disease project
 UI Also similar to previous project
 
