@@ -18,3 +18,14 @@ A deep learning-based project for detecting Tuberculosis (TB) in chest X-ray ima
 
 🌐 Optional Flask web app for user interaction (if applicable)
 
+🔧 Tech Stack
+Python
+
+TensorFlow / Keras / PyTorch
+
+OpenCV / PIL
+
+Flask (optional)
+
+NumPy / Pandas / Matplotlib
+
